@@ -22,3 +22,12 @@ xcuserdata/
 *.xcscmblueprint
 ide_profiles/xcode/Debug/
 ide_profiles/xcode/ExtendedKF.build/
+ide_profiles/*
+CMakeFiles/*
+CMakeScripts/*
+Debug/*
+ExtendedKF.build/*
+ExtendedKF.xcodeproj/*
+Release/*
+uWebSockets/*
+CMakeCache.txt
